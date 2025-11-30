@@ -18,6 +18,7 @@ The Zomato Dashboard is an interactive data analytics tool that visualizes resta
 #Supports restaurant chain owners and food delivery platforms in data-driven decisions.​
 
 🖼️ Dashboard Preview
+
 <img width="886" height="444" alt="image" src="https://github.com/user-attachments/assets/f9441502-e40a-4082-a483-b003b2ee23a5" />
 
 
