@@ -1,9 +1,9 @@
-🥘 Zomato Dashboard- Excel 
+# 🥘 Zomato Dashboard- Excel 
 
 The Zomato Dashboard is an interactive data analytics tool that visualizes restaurant performance, customer ratings, cuisine preferences, and sales trends to enable data-driven business insights for restaurant owners and food delivery platforms.
 ​
 
-📌 Project Overview
+## 📌 Project Overview
 
  Zomato Restaurant Analysis Dashboard analyzes restaurant performance across Indian cities using Excel. Key insights include:
 
@@ -17,7 +17,7 @@ The Zomato Dashboard is an interactive data analytics tool that visualizes resta
 
 #Supports restaurant chain owners and food delivery platforms in data-driven decisions.​
 
-🖼️ Dashboard Preview
+##🖼️ Dashboard Preview
 
 <img width="886" height="444" alt="image" src="https://github.com/user-attachments/assets/f9441502-e40a-4082-a483-b003b2ee23a5" />
 
@@ -31,22 +31,19 @@ The Zomato Dashboard is an interactive data analytics tool that visualizes resta
 Top restaurant rankings
 
 
-🛠️ Tools & Tech
+## 🛠️ Tools & Tech
 
-Tool	                 Purpose
-
-Excel	         -    Data analysis & dashboard creation ​
-
-Pivot Tables	  -   Data summarization & slicing
-
-Charts	          -   Revenue, orders, ratings visualization
-
-Zomato Dataset    -     Restaurant sales data ​
+|**Tool**            |       **Purpose**                            |
+|____________________|______________________________________________|          |                         
+|**Excel**	          |  ***Data analysis & dashboard creation***    | ​
+|**Pivot Tables**	   |  ***Data summarization & slicing***          |
+|**Charts**	         |***Revenue, orders, ratings visualization***  |
+|**Zomato Dataset**  |    ***Restaurant sales data***               |​
 
 
-📊 Dashboard Pages/Components
+## 📊 Dashboard Pages/Components
 
-1️⃣ Summary Overview
+### 1️⃣ Summary Overview
 
 Total Orders: 153,712
 
@@ -58,7 +55,7 @@ Top Cities by Revenue
 
 Overall performance KPIs​
 
-2️⃣ City Analysis
+### 2️⃣ City Analysis
 
 Revenue by city (Delhi, Mumbai, Bangalore leaders)
 
@@ -68,7 +65,7 @@ Average ratings comparison
 
 City slicers for filtering​
 
-3️⃣ Cuisine Performance
+### 3️⃣ Cuisine Performance
 
 Top cuisines: Biryani, North Indian, Chinese
 
@@ -78,7 +75,7 @@ Order volume trends
 
 Rating benchmarks​
 
-4️⃣ Top Performers
+### 4️⃣ Top Performers
 
 Highest revenue restaurants
 
@@ -88,7 +85,7 @@ Best-rated establishments
 
 Restaurant-level drill-down​
 
-🧵 Dataset Summary
+## 🧵 Dataset Summary
 
 Total Restaurants: 200+
 
@@ -102,27 +99,27 @@ Avg Order Value: ~₹14.92
 
 Peak Revenue City: Delhi​
 
-💡 Key Insights & Analysis
+## 💡 Key Insights & Analysis
 
-✔ 1. Revenue Leaders
+### ✔ 1. Revenue Leaders
 
 Delhi restaurants generate highest revenue
 
 Biryani cuisine dominates sales​
 
-✔ 2. High-Volume Chains
+### ✔ 2. High-Volume Chains
 
 Restaurants like Garden Hub, Saffron Palace lead orders
 
 Multiple locations boost performance​
 
-✔ 3. Customer Preferences
+### ✔ 3. Customer Preferences
 
 4.0+ ratings correlate with higher orders
 
 North Indian cuisine consistently high-rated​
 
-✔ 4. Growth Opportunities
+### ✔ 4. Growth Opportunities
 
 Cafe and Fast Food show potential
 
