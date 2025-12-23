@@ -31,9 +31,9 @@ The Zomato Dashboard is an interactive data analytics tool that visualizes resta
 👉Top restaurant rankings
 
 
-🔹## 🛠️ Tools & Tech
+## 🛠️ Tools & Tech
 
-**Tool**           &        **Purpose**                                              
+🔹**Tool**           &        **Purpose**                                              
 
 **Excel**	          -  ***Data analysis & dashboard creation***    ​
 
