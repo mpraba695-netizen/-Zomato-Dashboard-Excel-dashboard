@@ -31,7 +31,7 @@ The Zomato Dashboard is an interactive data analytics tool that visualizes resta
 👉Top restaurant rankings
 
 
-## 🛠️ Tools & Tech
+🔹## 🛠️ Tools & Tech
 
 **Tool**           &        **Purpose**                                              
 
@@ -56,7 +56,7 @@ The Zomato Dashboard is an interactive data analytics tool that visualizes resta
 
 👉Top Cities by Revenue
 
-Overall performance KPIs​
+👉Overall performance KPIs​
 
 ### 2️⃣ City Analysis
 
